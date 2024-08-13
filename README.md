@@ -1,6 +1,9 @@
 # autofilterST
 code for auto filter checking for Sensus Pertanian
 
+# An Update
+pemisah ribuan (titik)
+
 required library
 - pandas, pip install pandas
 - openpyxl, pip install openpyxl
